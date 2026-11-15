@@ -1,0 +1,291 @@
+{
+  "title": "CR7 v2",
+  "author": {
+    "name": "afapereira"
+  },
+  "license": "CC-BY-4.0",
+  "added": "2026-11-15",
+  "language": "en",
+  "goal": "muscle",
+  "level": "intermediate",
+  "split": "upper-lower",
+  "duration": 60,
+  "tags": [
+    "gym",
+    "dumbbells",
+    "supersets",
+    "six days"
+  ],
+  "description": "Two upper days, two lower days and two short ab days, mostly dumbbells. Three sets per exercise with a superset near the end of most days.",
+  "about": "Warm up before the upper days: arm circles (5 each way), band over-and-backs (5), band pull-aparts (10), band external rotations (10 each side) and weighted external rotations (10 each side).\n\nRate every set by how many more reps you could have done. Add weight once all sets reach the top of the range.",
+  "sessions": [
+    {
+      "name": "Upper 1",
+      "exercises": [
+        {
+          "id": "0289",
+          "sets": 3,
+          "reps": 10,
+          "repsMin": 8,
+          "rest": 150
+        },
+        {
+          "id": "0970",
+          "sets": 3,
+          "reps": 12,
+          "repsMin": 6,
+          "rest": 150
+        },
+        {
+          "id": "0405",
+          "sets": 3,
+          "reps": 8,
+          "repsMin": 6,
+          "rest": 150
+        },
+        {
+          "id": "0308",
+          "sets": 3,
+          "reps": 15,
+          "repsMin": 10,
+          "rest": 105
+        },
+        {
+          "id": "0327",
+          "sets": 3,
+          "reps": 12,
+          "repsMin": 10,
+          "rest": 120,
+          "note": "Elbows out, for the mid and upper back."
+        },
+        {
+          "id": "0318",
+          "sets": 3,
+          "reps": 10,
+          "repsMin": 8,
+          "rest": 60,
+          "note": "Superset A with the lying incline lateral raise."
+        },
+        {
+          "id": "0323",
+          "sets": 3,
+          "reps": 20,
+          "repsMin": 15,
+          "rest": 60,
+          "note": "Superset A with the incline curls. Lie chest-down on an incline bench."
+        },
+        {
+          "id": "5665",
+          "sets": 2,
+          "reps": 10,
+          "rest": 60
+        }
+      ]
+    },
+    {
+      "name": "Lower 1",
+      "exercises": [
+        {
+          "id": "2290",
+          "sets": 3,
+          "reps": 10,
+          "repsMin": 8,
+          "rest": 150,
+          "note": "Quad focus. Each leg."
+        },
+        {
+          "id": "1459",
+          "sets": 3,
+          "reps": 10,
+          "repsMin": 8,
+          "rest": 60,
+          "note": "Superset A with reverse lunges."
+        },
+        {
+          "id": "0381",
+          "sets": 3,
+          "reps": 15,
+          "repsMin": 10,
+          "rest": 60,
+          "note": "Superset A with the Romanian deadlift. Each leg."
+        },
+        {
+          "id": "4295",
+          "sets": 3,
+          "reps": 10,
+          "repsMin": 8,
+          "rest": 120,
+          "note": "Quad focus. Each leg."
+        },
+        {
+          "id": "0417",
+          "sets": 3,
+          "reps": 15,
+          "repsMin": 10,
+          "rest": 90
+        },
+        {
+          "id": "0715",
+          "sets": 2,
+          "sec": 30,
+          "rest": 60,
+          "note": "Each side."
+        }
+      ]
+    },
+    {
+      "name": "Abs 1",
+      "exercises": [
+        {
+          "id": "0832",
+          "sets": 3,
+          "reps": 15,
+          "repsMin": 8,
+          "rest": 60
+        },
+        {
+          "id": "0872",
+          "sets": 3,
+          "reps": 15,
+          "repsMin": 8,
+          "rest": 60
+        }
+      ]
+    },
+    {
+      "name": "Upper 2",
+      "exercises": [
+        {
+          "id": "0314",
+          "sets": 3,
+          "reps": 10,
+          "repsMin": 8,
+          "rest": 150,
+          "note": "Low incline."
+        },
+        {
+          "id": "0327",
+          "sets": 3,
+          "reps": 12,
+          "repsMin": 10,
+          "rest": 120,
+          "note": "Elbows tucked, for the lats."
+        },
+        {
+          "id": "0289",
+          "sets": 3,
+          "reps": 10,
+          "repsMin": 8,
+          "rest": 120
+        },
+        {
+          "id": "1328",
+          "sets": 3,
+          "reps": 15,
+          "repsMin": 12,
+          "rest": 105,
+          "note": "Chest on the bench, elbows wide."
+        },
+        {
+          "id": "0334",
+          "sets": 3,
+          "reps": 20,
+          "repsMin": 15,
+          "rest": 105
+        },
+        {
+          "id": "0313",
+          "sets": 3,
+          "reps": 10,
+          "repsMin": 8,
+          "rest": 60,
+          "note": "Superset A with the overhead extensions."
+        },
+        {
+          "id": "0330",
+          "sets": 3,
+          "reps": 15,
+          "repsMin": 10,
+          "rest": 60,
+          "note": "Superset A with the hammer curls."
+        },
+        {
+          "id": "5665",
+          "sets": 2,
+          "reps": 10,
+          "rest": 60
+        }
+      ]
+    },
+    {
+      "name": "Lower 2",
+      "exercises": [
+        {
+          "id": "0032",
+          "sets": 3,
+          "reps": 8,
+          "repsMin": 6,
+          "rest": 180
+        },
+        {
+          "id": "7590",
+          "sets": 3,
+          "reps": 10,
+          "repsMin": 8,
+          "rest": 120,
+          "note": "Glute focus. Each leg."
+        },
+        {
+          "id": "1060",
+          "sets": 3,
+          "reps": 15,
+          "repsMin": 10,
+          "rest": 120
+        },
+        {
+          "id": "0586",
+          "sets": 3,
+          "reps": 15,
+          "repsMin": 10,
+          "rest": 90
+        },
+        {
+          "id": "4031",
+          "sets": 3,
+          "reps": 12,
+          "rest": 60,
+          "note": "Superset A with seated calf raises."
+        },
+        {
+          "id": "1379",
+          "sets": 3,
+          "reps": 10,
+          "repsMin": 8,
+          "rest": 60,
+          "note": "Superset A with the hip abductions."
+        }
+      ]
+    },
+    {
+      "name": "Abs 2",
+      "exercises": [
+        {
+          "id": "0472",
+          "sets": 3,
+          "reps": 15,
+          "repsMin": 8,
+          "rest": 60,
+          "note": "Lower abs."
+        },
+        {
+          "id": "0175",
+          "sets": 3,
+          "reps": 15,
+          "repsMin": 8,
+          "rest": 60,
+          "note": "Upper abs."
+        }
+      ]
+    }
+  ]
+}

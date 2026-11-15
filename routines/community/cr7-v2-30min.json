@@ -1,0 +1,243 @@
+{
+  "title": "CR7 v2, 30 minutes",
+  "author": {
+    "name": "afapereira"
+  },
+  "license": "CC-BY-4.0",
+  "added": "2026-11-15",
+  "language": "en",
+  "goal": "muscle",
+  "level": "intermediate",
+  "split": "upper-lower",
+  "duration": 30,
+  "tags": [
+    "gym",
+    "dumbbells",
+    "supersets",
+    "short sessions"
+  ],
+  "description": "The short version of CR7 v2: two upper and two lower days built from supersets, for when you only have half an hour.",
+  "about": "Do each superset back to back, then rest about a minute. A rest-pause finisher means 30 reps in as few mini-sets as you can, resting a few breaths between them.",
+  "sessions": [
+    {
+      "name": "Upper 1 (30 min)",
+      "exercises": [
+        {
+          "id": "0289",
+          "sets": 3,
+          "reps": 10,
+          "repsMin": 8,
+          "rest": 60,
+          "note": "Superset A with the chest supported row."
+        },
+        {
+          "id": "0327",
+          "sets": 3,
+          "reps": 10,
+          "repsMin": 8,
+          "rest": 60,
+          "note": "Superset A with the dumbbell press."
+        },
+        {
+          "id": "0405",
+          "sets": 3,
+          "reps": 8,
+          "repsMin": 6,
+          "rest": 60,
+          "note": "Superset B with banded pull-ups."
+        },
+        {
+          "id": "0970",
+          "sets": 3,
+          "reps": 12,
+          "repsMin": 6,
+          "rest": 60,
+          "note": "Superset B with the shoulder press."
+        },
+        {
+          "id": "0318",
+          "sets": 3,
+          "reps": 10,
+          "repsMin": 8,
+          "rest": 60,
+          "note": "Superset C with the lying incline lateral raise."
+        },
+        {
+          "id": "0323",
+          "sets": 3,
+          "reps": 20,
+          "repsMin": 15,
+          "rest": 60,
+          "note": "Superset C with the incline curls."
+        },
+        {
+          "id": "0308",
+          "sets": 1,
+          "reps": 30,
+          "note": "Rest-pause finisher: 30 reps in as few mini-sets as you can."
+        }
+      ]
+    },
+    {
+      "name": "Lower 1 (30 min)",
+      "exercises": [
+        {
+          "id": "2290",
+          "sets": 3,
+          "reps": 10,
+          "repsMin": 8,
+          "rest": 60,
+          "note": "Superset A with prone arm circles. Quad focus, each leg."
+        },
+        {
+          "id": "3905",
+          "sets": 3,
+          "reps": 10,
+          "rest": 60,
+          "note": "Superset A with the split squat. Lying face down, light weights if you like."
+        },
+        {
+          "id": "1459",
+          "sets": 3,
+          "reps": 10,
+          "repsMin": 8,
+          "rest": 60,
+          "note": "Superset B with step-ups."
+        },
+        {
+          "id": "0431",
+          "sets": 3,
+          "reps": 10,
+          "repsMin": 8,
+          "rest": 60,
+          "note": "Superset B with the Romanian deadlift. Each leg."
+        },
+        {
+          "id": "0586",
+          "sets": 3,
+          "reps": 15,
+          "repsMin": 10,
+          "rest": 60,
+          "note": "Superset C with reverse lunges."
+        },
+        {
+          "id": "0381",
+          "sets": 3,
+          "reps": 15,
+          "repsMin": 10,
+          "rest": 60,
+          "note": "Superset C with the leg curls. Each leg."
+        }
+      ]
+    },
+    {
+      "name": "Upper 2 (30 min)",
+      "exercises": [
+        {
+          "id": "0314",
+          "sets": 3,
+          "reps": 10,
+          "repsMin": 8,
+          "rest": 60,
+          "note": "Superset A with the lat row. Low incline."
+        },
+        {
+          "id": "0327",
+          "sets": 3,
+          "reps": 20,
+          "repsMin": 15,
+          "rest": 60,
+          "note": "Superset A with the incline press. Elbows tucked, for the lats."
+        },
+        {
+          "id": "0289",
+          "sets": 3,
+          "reps": 10,
+          "repsMin": 8,
+          "rest": 60,
+          "note": "Superset B with the rear delt row."
+        },
+        {
+          "id": "1328",
+          "sets": 3,
+          "reps": 15,
+          "repsMin": 10,
+          "rest": 60,
+          "note": "Superset B with the dumbbell press."
+        },
+        {
+          "id": "0313",
+          "sets": 3,
+          "reps": 10,
+          "repsMin": 8,
+          "rest": 60,
+          "note": "Superset C with the overhead extensions."
+        },
+        {
+          "id": "0330",
+          "sets": 3,
+          "reps": 15,
+          "repsMin": 10,
+          "rest": 60,
+          "note": "Superset C with the hammer curls."
+        },
+        {
+          "id": "0715",
+          "sets": 2,
+          "sec": 30,
+          "rest": 60,
+          "note": "Each side."
+        }
+      ]
+    },
+    {
+      "name": "Lower 2 (30 min)",
+      "exercises": [
+        {
+          "id": "0032",
+          "sets": 3,
+          "reps": 8,
+          "repsMin": 6,
+          "rest": 120
+        },
+        {
+          "id": "2367",
+          "sets": 3,
+          "reps": 10,
+          "repsMin": 8,
+          "rest": 60,
+          "note": "Superset A with seated leg curls. Front foot on a step, each leg."
+        },
+        {
+          "id": "0599",
+          "sets": 3,
+          "reps": 15,
+          "repsMin": 10,
+          "rest": 60,
+          "note": "Superset A with the reverse lunge."
+        },
+        {
+          "id": "1060",
+          "sets": 3,
+          "reps": 15,
+          "repsMin": 10,
+          "rest": 60,
+          "note": "Superset B with hip abductions."
+        },
+        {
+          "id": "4031",
+          "sets": 3,
+          "reps": 12,
+          "rest": 60,
+          "note": "Superset B with the hip thrust."
+        },
+        {
+          "id": "0417",
+          "sets": 1,
+          "reps": 30,
+          "note": "Rest-pause finisher: 30 reps in as few mini-sets as you can."
+        }
+      ]
+    }
+  ]
+}
